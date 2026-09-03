@@ -1,4 +1,3 @@
-
 #fastPY is used to make Python code even faster. fastPY contains a bunch of useful functions to use in your code.
 def turn_number(number_str):
     #This functions turns a number in a string format into a number. It doesn't crash if the input is invalid, and it can process both integers and floats. If the input is invalid, it returns None.
