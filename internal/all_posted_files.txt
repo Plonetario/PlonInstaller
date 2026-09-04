@@ -1,1 +1,1 @@
-[{"name":"PPC.py", "path": "plugins/simple/PPC"}, {"name":"fastPY.py", "path": "modules/simple/fastPY"}]
+[{"name":"PPC.py", "path": "plugins/simple/PPC.py"}, {"name":"fastPY.py", "path": "modules/simple/fastPY.py"}]
