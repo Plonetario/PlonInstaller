@@ -3,8 +3,7 @@ from tkinter import filedialog
 
 while True:
     input("Press enter to continue")
-    print("
-" * 500)
+    print("\n" * 500)
     print("Welcome to PPC(Plonetario preference changer)")
     print()
     print("Available options:")
